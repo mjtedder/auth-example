@@ -1,0 +1,25 @@
+{
+  "name": "auth-example",
+  "version": "1.0.0",
+  "description": "An example of using authentication with JWT :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjtedder/auth-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjtedder/auth-example/issues"
+  },
+  "homepage": "https://github.com/mjtedder/auth-example#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
